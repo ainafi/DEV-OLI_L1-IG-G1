@@ -1,9 +1,9 @@
-# e-sekolilp
+# e-sekolilo
 
-![book](https://ibb.co/R9vCSmr)
+![e-sekoliko](https://ibb.co/R9vCSmr)
 
 #[Live site]([https://devoli-l1ig.netlify.app]) https://book-aina.netlify.app/
-COD-ENI hackaton for novice at ENI
+-COD-ENI hackaton for novice at ENI
 
 ### tech
 <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />

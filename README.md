@@ -1,8 +1,8 @@
 # e-sekolilo
 
-![e-sekoliko](https://ibb.co/R9vCSmr)
+![e-sekoliko](https://i.postimg.cc/FK3zYcZR/Capture-d-cran-du-2024-06-18-08-16-22.png)
 
-#[Live site]([https://devoli-l1ig.netlify.app]) https://book-aina.netlify.app/
+#[Live site]([https://devoli-l1ig.netlify.app]) 
 -COD-ENI hackaton for novice at ENI
 
 ### tech
